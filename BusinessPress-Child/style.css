@@ -1,0 +1,28 @@
+/*
+ Theme Name:   BusinessPress Child
+ Theme URI:    https://github.com/ShortArrow/BusinessPress-Child
+ Description:  BusinessPress Child Theme
+ Author:       Shortarrow
+ Author URI:   https://github.com/ShortArrow
+ Template:     businesspress
+ Version:      1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         businesspress, childtheme
+ Text Domain:  businesspress-child
+*/
+.entry-summary{
+position: relative;
+}
+.fillalink{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border-radius: 2pt;
+}
+.fillalink:hover{
+opacity: 0.2;
+background-color: #ffffff;
+}
